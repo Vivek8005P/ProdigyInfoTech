@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+  margin-top: 23px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 21px;
+  font-size: 34px;
+  height: 65px;
+  width: 260px;
+  scroll-behavior: smooth;
+}
+
+button {
+  border-radius: 20px;
+  font-size: 20px;
+  width: 60px;
+  height: 50px;
+  margin: 6px;
+}
+
+.number {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.operator {
+  background-color: #0fa5e5;
+  color: #fff;
+}
+
+.clear {
+  background-color: #ff0000;
+  color: #fff;
+}
+
+.equal {
+  background-color: #e9be10;
+  color: #fff;
+}
+
+.decimal {
+  background-color: #bbff00;
+  color: #333;
+}
+
+.calculator {
+  background-color: #000000;
+  padding: 23px;
+  border-radius: 53px;
+  display: inline-block;
+}
